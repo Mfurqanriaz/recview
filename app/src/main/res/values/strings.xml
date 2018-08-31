@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">rec view</string>
+
+    <string-array name="list">
+
+        <item>Skin Specialist</item>
+        <item>Pediatric</item>
+        <item>Orthopedic</item>
+        <item>Genral Medicine </item>
+        <item>Gynaecologist </item>
+        <item>Opthamology </item>
+        <item>Dentist</item>
+        <item>Skin Specialist</item>
+        <item>Pediatric</item>
+        <item>Orthopedic</item>
+        <item>Genral Medicine </item>
+        <item>Gynaecologist </item>
+        <item>Opthamology </item>
+        <item>Dentist</item>
+        <item>Skin Specialist</item>
+        <item>Pediatric</item>
+        <item>Orthopedic</item>
+        <item>Genral Medicine </item>
+        <item>Gynaecologist </item>
+        <item>Opthamology </item>
+        <item>Dentist</item>
+
+
+    </string-array>
+
+</resources>
